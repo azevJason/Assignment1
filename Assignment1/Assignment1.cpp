@@ -5,9 +5,6 @@
 #include <string>
 int main()
 {
-    //std::cout << "Hello World!\n";
-
-    
     std::string name;/*std::string variable for characters name*/
     std::string species;/*std::string variable for characters species*/
     std::string specialAbility;/*std::string variable for characters special ability*/
